@@ -1,0 +1,25 @@
+C:\Users\nicolasa\source\repos\dotnet-master\DotNetExam\bin\Debug\DotNetExam.exe.config
+C:\Users\nicolasa\source\repos\dotnet-master\DotNetExam\bin\Debug\DotNetExam.exe
+C:\Users\nicolasa\source\repos\dotnet-master\DotNetExam\bin\Debug\DotNetExam.pdb
+C:\Users\nicolasa\source\repos\dotnet-master\DotNetExam\bin\Debug\EntityFramework.dll
+C:\Users\nicolasa\source\repos\dotnet-master\DotNetExam\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nicolasa\source\repos\dotnet-master\DotNetExam\bin\Debug\EntityFramework.xml
+C:\Users\nicolasa\source\repos\dotnet-master\DotNetExam\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nicolasa\source\repos\dotnet-master\DotNetExam\obj\Debug\DotNetExam.csproj.AssemblyReference.cache
+C:\Users\nicolasa\source\repos\dotnet-master\DotNetExam\obj\Debug\DotNetExam.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicolasa\source\repos\dotnet-master\DotNetExam\obj\Debug\DotNetExam.csproj.CoreCompileInputs.cache
+C:\Users\nicolasa\source\repos\dotnet-master\DotNetExam\obj\Debug\DotNetExam.csproj.CopyComplete
+C:\Users\nicolasa\source\repos\dotnet-master\DotNetExam\obj\Debug\DotNetExam.exe
+C:\Users\nicolasa\source\repos\dotnet-master\DotNetExam\obj\Debug\DotNetExam.pdb
+C:\Users\EXO User\source\Repos\dotnet-master\DotNetExam\Exercise\bin\Debug\DotNetExam.exe.config
+C:\Users\EXO User\source\Repos\dotnet-master\DotNetExam\Exercise\bin\Debug\DotNetExam.exe
+C:\Users\EXO User\source\Repos\dotnet-master\DotNetExam\Exercise\bin\Debug\DotNetExam.pdb
+C:\Users\EXO User\source\Repos\dotnet-master\DotNetExam\Exercise\bin\Debug\EntityFramework.dll
+C:\Users\EXO User\source\Repos\dotnet-master\DotNetExam\Exercise\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EXO User\source\Repos\dotnet-master\DotNetExam\Exercise\bin\Debug\EntityFramework.xml
+C:\Users\EXO User\source\Repos\dotnet-master\DotNetExam\Exercise\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EXO User\source\Repos\dotnet-master\DotNetExam\Exercise\obj\Debug\DotNetExam.csproj.CoreCompileInputs.cache
+C:\Users\EXO User\source\Repos\dotnet-master\DotNetExam\Exercise\obj\Debug\DotNetExam.csproj.CopyComplete
+C:\Users\EXO User\source\Repos\dotnet-master\DotNetExam\Exercise\obj\Debug\DotNetExam.exe
+C:\Users\EXO User\source\Repos\dotnet-master\DotNetExam\Exercise\obj\Debug\DotNetExam.pdb
+C:\Users\EXO User\source\Repos\dotnet-master\DotNetExam\Exercise\obj\Debug\DotNetExam.csproj.AssemblyReference.cache
